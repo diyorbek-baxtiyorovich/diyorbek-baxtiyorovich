@@ -16,7 +16,7 @@
  - [x] Aiogram
  - [x] Git / Github
  - [x] Linux
- - [x] HTML / CSS / JS / REACT JS / NEXT JS
+ - [x] HTML / CSS / JS / REACT JS
  - [x] Figma
 
 🚀 Interests
