@@ -13,9 +13,9 @@
 
 🔧 **Tech Stack:**
 
-- **Languages:** JavaScript, Python  
+- **Languages:** JavaScript,   
 - **Frontend:** React, Vue, HTML, CSS, Bootstrap 5, TailwindCSS, Vuetify  
-- **Backend:** FastAPI, REST API  
+- **API:** FastAPI, REST API  
 - **Tools:** Git, GitHub, Figma, Linux  
 - **State Management:** Vuex, Pinia  
 
