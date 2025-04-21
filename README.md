@@ -1,28 +1,46 @@
-👋 Hi I'm Ilxomiddinov Diyorbek from Uzbekistan/Tashkent 
+### Hi there 👋 I'm Ilxomiddinov Diyorbek
 
+🎓 I'm a Frontend Developer and algorithm enthusiast from **Tashkent, Uzbekistan**.
 
+---
 
+🧠 **About Me:**
+- 💻 I build web applications using **React JS (Material UI)** and **Vue JS (Vuetify)**
+- 🚀 Passionate about **algorithms**, **problem solving**, and clean UI design
+- 🎯 Currently learning: **Vue 3**, **TypeScript**, and **system design**
 
-📚 Soft skills
- - [x] Leader
- - [x] Problem-solver
- - [x] Introvert
- - [x] Flexible/adaptive
- - [x] Talented
- 
- 
- 📚 Hard skills
- - [x] FastAPI / RADIO API
- - [x] Aiogram
- - [x] Git / Github
- - [x] Linux
- - [x] HTML / CSS / JS / REACT JS / VUE JS
- - [x] Figma
+---
 
-🚀 Interests
- - [x] Algorithm
- - [x] Contests
- - [x] Math / logical problems
+🔧 **Tech Stack:**
 
+- **Languages:** JavaScript, Python  
+- **Frontend:** React, Vue, HTML, CSS, Bootstrap 5, TailwindCSS, Vuetify  
+- **Backend:** FastAPI, REST API  
+- **Tools:** Git, GitHub, Figma, Linux  
+- **State Management:** Vuex, Pinia  
 
+---
 
+🧩 **Soft Skills:**
+
+- ✔️ Leadership  
+- ✔️ Problem-solving  
+- ✔️ Adaptable & flexible  
+- ✔️ Design Fixing  
+- ✔️ Self-motivated introvert  
+
+---
+
+📬 **Get in touch:**
+
+- 📧 Gmail: ilxomiddinovdiyorbek1@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/diyorbek-ilxomiddinov](www.linkedin.com/in/diyorbek-ilxomiddinov-9888bb242)  
+- 🧑‍💻 Telegram: @I_D_Baxtiyorovich  
+
+---
+
+⚡ Fun facts:
+- I love solving math and logic puzzles
+- I regularly participate in coding contests
+
+Thanks for visiting my profile! 😊
