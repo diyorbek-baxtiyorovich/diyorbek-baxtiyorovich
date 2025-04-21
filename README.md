@@ -1,4 +1,4 @@
-👋 Hi I'm Ilxomiddinov Diyorbek from Uzbekistan/Samarkand 
+👋 Hi I'm Ilxomiddinov Diyorbek from Uzbekistan/Tashkent 
 
 
 
